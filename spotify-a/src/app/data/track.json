@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "_id": 1,
+            "name": "Creeping Death",
+            "album": "Ride the lighting",
+            "cover": "https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg",
+            "artist": {
+                "name": "Metallica",
+                "nickname": "Metallica",
+                "nacionality": "USA"
+            },
+            "duration": {
+                "start": 0,
+                "end": 636
+            },
+            "url": "http://localhost:3000/track.mp3"
+        }
+    ]
+}
